@@ -1,16 +1,11 @@
-### Hi there 👋
+### Hi!
 
-<!--
-**Angelogeb/Angelogeb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<samp>
+  :point_right: I am a Machine Learning Engineer @ <a href="https://translated.com"> Translated </a> working on <a href="https://modernmt.com"> ModernMT</a>.
+  <br> My current day job involves working in <a href="https://pytorch.org">Pytorch</a> to improve Machine Translation
+  <br>
+  <br> My major interests intersect Deep Learning, Systems and Programming Languages
+  <br>
+  <br> <a href="https://angelogeb.github.io/news/">At this link</a> you can find updates on what is going on around me
+  <br> Feel free to reach me out on <a href="https://twitter.com/0xA95">Twitter</a>
+<samp>
